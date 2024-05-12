@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Note Reminder</string>
+    <string name="addnoteheading">Add Note</string>
+    <string name="saveButton"> </string>
+    <string name="titleEditText">Enter the title</string>
+    <string name="contentEdittext">Enter the description</string>
+    <string name="notesHeading">Notes</string>
+    <string name="notesRecyclerView">Note Reminder</string>
+    <string name="addButton"> </string>
+    <string name="editnoteheading">Edit Note</string>
+    <string name="updatesaveButton"> </string>
+    <string name="updatetitleEditText"> </string>
+    <string name="updatecontentEdittext"> </string>
+    <string name="updateButton"> </string>
+    <string name="deletButton"> </string>
+    <string name="contentTextView"> </string>
+
+
+</resources>
